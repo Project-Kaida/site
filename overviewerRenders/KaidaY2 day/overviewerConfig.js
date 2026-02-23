@@ -2,18 +2,11 @@ var overviewerConfig = {
     "CONST": {
         "tileSize": 384,
         "image": {
-            "defaultMarker": "signpost.png",
-            "signMarker": "signpost_icon.png",
-            "bedMarker": "bed.png",
-            "spawnMarker": "markers/marker_home.png",
-            "spawnMarker2x": "markers/marker_home_2x.png",
-            "queryMarker": "markers/marker_location.png",
-            "queryMarker2x": "markers/marker_location_2x.png",
             "compass": {
-                "0": "compass_upper-left.png",
-                "1": "compass_upper-right.png",
-                "3": "compass_lower-left.png",
-                "2": "compass_lower-right.png"
+                "0": "project_kaida_txt_logo.png",
+                "1": "project_kaida_txt_logo.png",
+                "3": "project_kaida_txt_logo.png",
+                "2": "project_kaida_txt_logo.png"
             }
         },
         "mapDivId": "mcmap",
